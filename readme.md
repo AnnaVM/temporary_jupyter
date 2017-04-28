@@ -4,7 +4,7 @@
 
 to install Jupyter notebook:
 ```
-pip install jupyter notebook
+pip install jupyter
 ```
 
 to launch a notebook
