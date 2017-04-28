@@ -12,4 +12,4 @@ to launch a notebook
 jupyter notebook
 ```
 
-Just click on the 'launch binder icon'.
+If you don't want to download anything, just click on the 'launch binder icon'.
